@@ -16,8 +16,8 @@ page1:Button("6vain Private", function(value)
     loadstring(game:HttpGet("https://pastebin.com/raw/ue2VfT6Z"))();
 end)
 
-page1:Button1("Button2", function(value)
-    print(value)
+page1:Button1("TrashTalk", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/C7tcr9pR"))();
 end)
 
 page1:Button2
