@@ -12,15 +12,16 @@ page1:Toggle("ScriptHub",nil, function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/scripthubv3beta/main/scripthubv3beta1", true))()
 end)
 
-page1:Button("Button1", function(value)
-    print(value)
+page1:Button("6vain Private", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/ue2VfT6Z"))();
 end)
 
 page1:Button1("Button2", function(value)
     print(value)
 end)
 
-local getdrop = page1:DropDown("Name DropDown","Name",{"a","b","c"}, function(value)
+page1:Button2
+("Button2", function(value)
     print(value)
 end)
 
