@@ -20,13 +20,13 @@ page1:Button1("TrashTalk", function(value)
     loadstring(game:HttpGet("https://pastebin.com/C7tcr9pR"))();
 end)
 
-page1:Button2("OP DOT |Q|", function(value)
+page1:Button1("OP DOT |Q|", function(value)
     loadstring(game:HttpGet("https://pastebin.com/UjbGczSJ"))();
 end)
 
 local getlable = page1:Label("6vain.exe")
 
-page1:Button2("OP CAMLOCK Hc or Dh|Q|", function(value)
+page1:Button1("OP CAMLOCK Hc or Dh|Q|", function(value)
     loadstring(game:HttpGet("https://pastebin.com/BHxG0jT5"))();
 end)
 
@@ -40,7 +40,7 @@ page4:Button("Q-TOOL", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/q-tool/main/README.md%5C%5C/q%20tool"))();
 end)
 
-page4:Button1("Button2", function(value)
+page4:Button("Button2", function(value)
     print(value)
 end)
 
