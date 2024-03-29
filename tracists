@@ -56,6 +56,6 @@ page4:Button("Silent tracists OP AUTOPRED", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/silent-tracists/main/tracists%20op"))()
 end)
 
-page4:Button("Silent OP", function(value)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/VloxsGG/VloxsGG/48655312e6ec17a5653825b1f83234ccb2420df6/Aura.cc%20Aura.cc%20Aura.cc"))()
+page4:Button("tp script OP", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tp/main/teleport%20script"))()
 end)
