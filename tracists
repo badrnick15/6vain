@@ -6,7 +6,7 @@ local page1 = tap1:addpage()
 local page2 = tap1:addpage()
 local page3 = tap1:addpage()
 local page4 = tap1:addpage()
-page1:Ti("6vain.exe")
+page1:Ti("tracists")
 
 page1:Toggle("ScriptHub",nil, function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/scripthubv3beta/main/scripthubv3beta1", true))()
@@ -24,13 +24,13 @@ page1:Button1("OP DOT |Q|", function(value)
     loadstring(game:HttpGet("https://pastebin.com/UjbGczSJ"))();
 end)
 
-local getlable = page1:Label("6vain.exe")
+local getlable = page1:Label("tracists on discord")
 
 page1:Button1("OP CAMLOCK Hc or Dh|Q|", function(value)
     loadstring(game:HttpGet("https://pastebin.com/BHxG0jT5"))();
 end)
 
-page4:Ti("6vain.exe")
+page4:Ti("tracists on discord")
 
 page4:Toggle("Bypass Chat",nil, function(value)
     loadstring(game:HttpGet('https://pastes.io/raw/lstrrfipqq'))();
