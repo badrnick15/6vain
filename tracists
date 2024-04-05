@@ -30,6 +30,10 @@ page1:Button1("OP CAMLOCK Hc or Dh|Q|", function(value)
     loadstring(game:HttpGet("https://pastebin.com/BHxG0jT5"))();
 end)
 
+page2:Button1("tracists with RESOVLER", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracist/main/tracists%20with%20RESOVLER"))();
+end)
+
 page4:Ti("tracists on discord")
 
 page4:Toggle("Bypass Chat",nil, function(value)
