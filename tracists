@@ -40,6 +40,10 @@ page3:Button1("Aura X Remake But Better", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/k0nkx/Aura-x-skid-ez-remake-by-k0nkx/main/Sigma"))()
 end)
 
+page3:Button1("stretched resolution script for mobile", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/ZDhU8bnz"))()
+end)
+
 page4:Ti("tracists on discord")
 
 page4:Toggle("Bypass Chat",nil, function(value)
