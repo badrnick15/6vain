@@ -34,6 +34,8 @@ page2:Button1("tracists with RESOVLER", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracist/main/tracists%20with%20RESOVLER"))();
 end)
 
+page3:Ti("Other Scripts and more")
+
 page3:Button1("Aura X Remake But Better", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/k0nkx/Aura-x-skid-ez-remake-by-k0nkx/main/Sigma"))()
 end)
