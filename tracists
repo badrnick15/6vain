@@ -30,21 +30,12 @@ page1:Button1("OP CAMLOCK Hc or Dh|Q|", function(value)
     loadstring(game:HttpGet("https://pastebin.com/BHxG0jT5"))();
 end)
 
-page2:Ti("resolver and more things")
+page2:Ti("tracists private")
 
-page2:Button1("tracists with RESOVLER", function(value)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracist/main/tracists%20with%20RESOVLER"))();
+page2:Button1("Ping Improver and No Dely OP", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/Aijce5KH"))()
 end)
 
-page2:Ti("resolver and more things")
-
-page2:Button1("random RESOVLER 2", function(value)
-    loadstring(game:HttpGet("https://pastebin.com/raw/UaDLp9Wn"))();
-end)
-
-page2:Button1("random RESOVLER", function(value)
-    loadstring(game:HttpGet("https://pastebin.com/raw/NY21YhuV"))();
-end)
 page3:Ti("Other Scripts and more")
 
 page3:Button1("Aura X Remake But Better", function(value)
@@ -53,6 +44,18 @@ end)
 
 page3:Button1("stretched resolution script for mobile", function(value)
     loadstring(game:HttpGet("https://pastebin.com/raw/ZDhU8bnz"))()
+end)
+
+page3:Button1("tracists with RESOVLER", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracist/main/tracists%20with%20RESOVLER"))();
+end)
+
+page3:Button1("random RESOVLER 2", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/UaDLp9Wn"))();
+end)
+
+page3:Button1("random RESOVLER", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/NY21YhuV"))();
 end)
 
 page4:Ti("tracists on discord")
