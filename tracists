@@ -8,7 +8,7 @@ local page3 = tap1:addpage()
 local page4 = tap1:addpage()
 page1:Ti("tracists")
 
-page1:Button("ScriptHub",nil, function(value)
+page1:Toggle("ScriptHub",nil, function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/scripthubv3beta/main/scripthubv3beta1", true))()
 end)
 
