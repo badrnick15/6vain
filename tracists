@@ -36,6 +36,14 @@ page2:Button1("Ping Improver and No Delay OP", function(value)
     loadstring(game:HttpGet("https://pastebin.com/raw/Aijce5KH"))()
 end)
 
+page2:Button1("Paintball 2 OP SCRIPT", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xxxloilpxxx/lol/main/bigpenisball2-killall.lua"))()
+end)
+
+page2:Button1("This script works for mm2 and other games", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring"))()
+end)
+
 page3:Ti("Other Scripts and more")
 
 page3:Button1("Aura X Remake But Better", function(value)
