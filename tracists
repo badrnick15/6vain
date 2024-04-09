@@ -37,7 +37,7 @@ page2:Button1("Ping Improver and No Delay OP", function(value)
 end)
 
 page2:Button1("TRACISTS LOCK OPPP", function(value)
-    loadstring(game:HttpGet("https://pastebin.com/raw/mZVJJN2M"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists/main/tracists%20lock"))()
 end)
 
 page2:Button1("anti lock and aim viewer mobile", function(value)
