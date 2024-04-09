@@ -36,6 +36,10 @@ page2:Button1("Ping Improver and No Delay OP", function(value)
     loadstring(game:HttpGet("https://pastebin.com/raw/Aijce5KH"))()
 end)
 
+page2:Button1("TRACISTS LOCK OPPP", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/mZVJJN2M"))()
+end)
+
 page2:Button1("anti lock and aim viewer mobile", function(value)
     loadstring(game:HttpGet('https://raw.githubusercontent.com/wenny69420/KirbswareScripts/main/MobileV3'))()
 end)
