@@ -26,8 +26,8 @@ end)
 
 local getlable = page1:Label("tracists on discord")
 
-page1:Button1("OP CAMLOCK Hc or Dh|Q|", function(value)
-    loadstring(game:HttpGet("https://pastebin.com/BHxG0jT5"))();
+page1:Button1("OP CAMLOCK HC", function(value)
+    loadstring(game:HttpGet("https://pastebin.com/raw/2m8dgMJJ"))();
 end)
 
 page2:Ti("tracists private")
