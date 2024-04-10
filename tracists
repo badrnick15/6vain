@@ -6,6 +6,8 @@ local page1 = tap1:addpage()
 local page2 = tap1:addpage()
 local page3 = tap1:addpage()
 local page4 = tap1:addpage()
+local page5 = tap1:addpage()
+local page6 = tap1:addpage()
 page1:Ti("tracists")
 
 page1:Toggle("ScriptHub",nil, function(value)
@@ -102,4 +104,8 @@ end)
 
 page4:Button("tp script OP", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tp/main/teleport%20script"))()
+end)
+
+page5:Button("TRACISTS MENU OP", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/Menu"))()
 end)
