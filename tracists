@@ -109,3 +109,12 @@ end)
 page5:Button("TRACISTS MENU OP", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/Menu"))()
 end)
+
+page5:Button("TRACISTS MENU BETA", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/beta%20menu"))()
+end)
+
+page5:Button("BUTTON EXAMPLE", function(value)
+    loadstring(game:HttpGet(""))()
+end)
+
