@@ -114,7 +114,22 @@ page5:Button("TRACISTS MENU BETA", function(value)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/beta%20menu"))()
 end)
 
-page5:Button("BUTTON EXAMPLE", function(value)
-    loadstring(game:HttpGet(""))()
+page6:Button("E-Tool", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/E%20tool"))()
 end)
 
+page6:Button("Q-Tool", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/Q-Tool"))()
+end)
+
+page6:Button("C-Tool", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/badrnick15/tracists-menu/main/c%20tool"))()
+end)
+
+page6:Button("mob keyb", function(value)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt"))()
+end)
+
+page6:Button("button example", function(value)
+    loadstring(game:HttpGet(""))()
+end)
